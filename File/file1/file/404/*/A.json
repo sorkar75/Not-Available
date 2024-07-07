@@ -1,17 +1,5 @@
-{
-    "urls": [
-        {
-            "url": "https://hellopeopletv.blogspot.com/",
-            "delay": 5000
-        },
-        {
-            "url": "https://example.com/other-error.html",
-            "delay": 3000
-        },
-        {
-            "url": "https://example.com/custom-error.html",
-            "delay": 0
-        }
-    ]
-}
-
+[
+    "https://www.w3schools.com",
+    "https://tveboxlive.blogspot.com",
+    "https://hellopeopletv.blogspot.com"
+]
