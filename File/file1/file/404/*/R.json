@@ -1,11 +1,11 @@
 {
     "urls": [
         {
-            "url": "https://example.com/error404.html",
+            "url": "https://t.me/hellopeopletv/",
             "delay": 5000
         },
         {
-            "url": "https://example.com/other-error.html",
+            "url": "https://hellopeopletv.blogspot.com/",
             "delay": 3000
         },
         {
