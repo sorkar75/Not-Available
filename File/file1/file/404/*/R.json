@@ -2,7 +2,7 @@
     "urls": [
         {
             "url": "https://t.me/hellopeopletv/",
-            "delay": 5000
+            "delay": 0
         },
         {
             "url": "https://hellopeopletv.blogspot.com/",
@@ -10,7 +10,7 @@
         },
         {
             "url": "https://example.com/custom-error.html",
-            "delay": 0
+            "delay": 5550
         }
     ]
 }
