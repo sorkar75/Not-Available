@@ -1,6 +1,9 @@
-[
-    "https://www.w3schools.com",
-    "https://tveboxlive.blogspot.com",
-    "https://hellopeopletv.blogspot.com"
-    "https://xx18-free-watch.blogspot.com/"
-]
+{
+  "domains": [
+    "tveboxlive.blogspot.com",
+    "example.com",
+    "subdomain.example.com",
+    "anotherdomain.com"
+    // Add more domains as needed
+  ]
+}
